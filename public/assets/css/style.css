@@ -1,0 +1,80 @@
+:root {
+  --bean: #301504;
+  --rawumber: #885d3b;
+  --lion: #bf956f;
+  --almond: #eee2d5;
+  --primaryblue: #22303f;
+  --secondaryblue: #020d2f;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+}
+
+/* Universal Selector: resets all elements */
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+
+  background-image:
+    linear-gradient(rgba(48, 21, 4, 0.28), rgba(48, 21, 4, 0.28)),
+    url("https://cdn.pixabay.com/photo/2020/10/11/15/13/flowers-5646179_1280.png");
+
+  background-size: cover;
+  background-position: center;
+
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+/****** Contenedor y Card de Formularios ******/
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
+  width: min(400px, 100vw);
+  background-color: rgba(238, 226, 213, 0.95);
+  color: var(--bean);
+}
+
+.card .btn {
+  padding: 10px;
+
+  background-color: var(--secondaryblue);
+  color: var(--almond);
+  transition: all 0.3s ease-in-out;
+}
+
+.card .btn:hover {
+  background-color: var(--primaryblue);
+  color: var(--almond);
+  transition: all 0.3s ease-in-out;
+  transform: translateY(-1px);
+}
+
+.card a {
+  color: var(--rawumber);
+  transition: all 0.4s ease-in-out;
+}
+
+.card a:hover {
+  color: var(--primaryblue);
+  transition: all 0.4s ease-in-out;
+}
+
+form .form-control{
+  padding: 10px;
+}

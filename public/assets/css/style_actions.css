@@ -1,0 +1,79 @@
+:root {
+  --bean: #301504;
+  --rawumber: #885d3b;
+  --lion: #bf956f;
+  --almond: #eee2d5;
+  --primaryblue: #22303f;
+  --secondaryblue: #020d2f;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+/* Universal Selector: resets all elements */
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+
+  background-color: var(--lion);
+}
+
+
+/* Contenedor */
+main{
+    width: min(90%, 700px);
+    margin: 3rem auto;
+    padding: 2rem;
+
+    background: rgba(238, 226, 213, .9);
+    border-radius: 12px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+h2{
+  color: var(--bean);
+  font-style: italic;
+}
+
+p{
+  color: var(--bean);
+  font-weight: 400;
+}
+
+label{
+  color: var(--secondaryblue);
+  font-weight: 500;
+}
+
+.btn-create{
+    background-color: var(--rawumber);
+    color: var(--almond);
+    box-shadow: 0 4px 10px rgba(48, 21, 4, .18);
+
+    transition: all .25s ease;
+}
+
+.btn-create:hover{
+    background-color: var(--primaryblue);
+    color: var(--almond);
+
+    transform: translateY(-2px);
+    box-shadow: 0 8px 18px rgba(34, 48, 63, .25);
+}
+
+.btn-secondary:hover{
+    transform: translateY(-2px);
+    box-shadow: 0 8px 18px rgba(34, 48, 63, .25);
+}
+
+/* create.php - formulario de creación */
+select:invalid {
+    color: #6c757d;
+}
