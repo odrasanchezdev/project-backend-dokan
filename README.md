@@ -72,9 +72,9 @@ $db   = "dokan";
 
 ## Demo y documentación visual 🎬
 
-<!-- Enlace a Behance: [Do-Kan: Gestor de tareas multiusuario by Odra Sanchez]() -->
+Enlace a Behance: [Do-Kan by Odra Sanchez](https://www.behance.net/gallery/251835421/Do-Kan-Task-manager)
 
-Enlace a DEMO: [Do-Kan: Gestor de tareas multiusuario by Odra Sanchez](https://www.canva.com/design/DAHOaDx1YiQ/_ilX1NKUSa0NO3yXm4FKXA/watch)
+Enlace a video DEMO: [Do-Kan](https://www.canva.com/design/DAHOaDx1YiQ/_ilX1NKUSa0NO3yXm4FKXA/watch)
 
 <br>
 <br>
