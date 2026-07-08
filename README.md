@@ -21,14 +21,11 @@
 
 ## Tecnologías utilizadas 🔨
 <div align="center" style="display: inline_block">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge" />
 <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge" />
-<img alt="PHPMyAdmin" src="https://img.shields.io/badge/PHPMyAdmin-faae4b?style=for-the-badge" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?&style=for-the-badge" />
-<img alt="VSCODE" src="https://img.shields.io/badge/VSCode-02458D?style=for-the-badge" />
 </div>
 <br>
 
