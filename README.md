@@ -89,7 +89,7 @@ Acercate a mis redes sociales para atender tus dudas y sugerencias en la secció
 ## Licencia ✅
 Se permite el uso, copia y distribución de este proyecto, siempre y cuando se mantenga la atribución original y no se sublicencie. No se permite su distribución, modificación o uso comercial sin permiso expreso del autor.
 
-Copyright (c) 2025 at Odra Sanchez. Enlace del perfil:
+Copyright (c) 2026 at Odra Sanchez. Enlace del perfil:
 <div align="center" style="display: inline_block">
   
 <a href="https://github.com/odrasanchezdev">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
