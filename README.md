@@ -101,7 +101,7 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 <div align="center" style="display: inline_block;">
   
  <a href="https://www.linkedin.com/in/odrasanchez/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-004e89?style=for-the-badge)</a>
- <a href="https://odrasanchezdev-presentacion.my.canva.site/odra-sanchez-dev-linktree">![LinkTree](https://img.shields.io/badge/-Linktree-071739?style=for-the-badge)</a>
+ <a href="https://odrasanchezdev.netlify.app/links/index.html">![LinkTree](https://img.shields.io/badge/-Linktree-071739?style=for-the-badge)</a>
  <a href="https://www.instagram.com/odrasanchezdev/">![Instagram](https://img.shields.io/badge/-Instagram-9f175b?style=for-the-badge)</a>
  <a href="https://ko-fi.com/odrasanchez">![Ko-fi](https://img.shields.io/badge/-Ko--fi-f45b69?style=for-the-badge)</a> 
 </div>
